@@ -15,3 +15,4 @@ Edge Cases Handling:
 - Managed scenarios where questions are not provided or an empty array is passed to maintain functionality.
 - Handled overflow in the questions carousel to ensure a seamless user experience.
 - Automatically disabled navigation buttons when reaching limits to prevent unintended actions.
+- While developing, found that the question index was not restting back to first question, when we change the candidate.
